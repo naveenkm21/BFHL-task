@@ -4,7 +4,7 @@
 - `web-plain/` — single-file `index.html` (vanilla HTML/CSS/JS, cytoscape via CDN). No build step.
 
 ## Frontend
-<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/55311b2b-5c5b-415e-8a94-c2edc96bf322" />
+<img width="1912" height="914" alt="583418814-55311b2b-5c5b-415e-8a94-c2edc96bf322" src="https://github.com/user-attachments/assets/90ca5646-8d8a-4e28-9023-32c1f477b422" />
 
 <img width="1296" height="897" alt="image" src="https://github.com/user-attachments/assets/31cb425e-ce7a-40c0-bb19-29841e2deed7" />
 
